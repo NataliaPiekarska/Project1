@@ -1,5 +1,5 @@
-//Wczytaæ wspó³czynniki rzeczywiste a, b, c równania ax^2+bx+c=0.
-//Wydrukowaæ wszystkie rozwi¹zania tego równania, przy za³o¿eniu, ¿e a nie jest równe zeru (nie trzeba tego sprawdzaæ).
+//WczytaÄ‡ wspÃ³Å‚czynniki rzeczywiste a, b, c rÃ³wnania ax^2+bx+c=0.
+//WydrukowaÄ‡ wszystkie rozwiÄ…zania tego rÃ³wnania, przy zaÅ‚oÅ¼eniu, Å¼e a nie jest rÃ³wne zeru (nie trzeba tego sprawdzaÄ‡).
 
 #include <iostream>
 #include <cmath>
@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
 {
     float a,b,c,delta;
 
-    cout << "Proszê podaæ wspó³czynniki a, b i c" << endl;
+    cout << "Prosze podac wspolczynniki a, b i c" << endl;
     cin >> a >> b >> c;
 
     delta = b*b - 4*a*c;
