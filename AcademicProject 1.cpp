@@ -1,3 +1,6 @@
+//Wczytać dwie liczby całkowite i wydrukować większą z nich.
+//Przyjąć, że wczytane liczby nie są sobie równe (zatem nie trzeba sprawdzać takiej ewentualności).
+
 #include <iostream>
 
 using namespace std;
