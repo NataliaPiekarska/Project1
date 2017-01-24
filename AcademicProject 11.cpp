@@ -1,4 +1,4 @@
-//Wczytywaæ znaki a¿ do wczytania dwóch kropek. Wydrukowaæ iloœæ wczytanych znaków ³¹cznie z tymi kropkami.
+//WczytywaÄ‡ znaki aÅ¼ do napotkania dwu wystÄ™pujÄ…cych po sobie kropek. WydrukowaÄ‡ iloÅ›Ä‡ wczytanych znakÃ³w Å‚Ä…cznie z tymi kropkami.
 
 #include <iostream>
 
