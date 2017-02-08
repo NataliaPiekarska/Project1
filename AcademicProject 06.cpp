@@ -1,5 +1,5 @@
-//Wczytaæ wspó³czynniki rzeczywiste a, b, c równania ax2+bx+c=0. Wydrukowaæ wszystkie rozwi¹zania tego równania.
-//Uwzglêdniæ wszystkie mo¿liwe przypadki zerowania siê wspó³czynników a, b lub c.
+//WczytaÄ‡ wspÃ³Å‚czynniki rzeczywiste a, b, c rÃ³wnania ax2+bx+c=0. WydrukowaÄ‡ wszystkie rozwiÅ¡zania tego rÃ³wnania.
+//UwzglÄ™dniÄ‡ wszystkie moÅ¼liwe przypadki zerowania siÄ™ wspÃ³Å‚czynnikÃ³w a, b lub c.
 
 #include <iostream>
 #include <cmath>
