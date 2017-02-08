@@ -1,5 +1,5 @@
-//Wczytaæ trzy liczby ca³kowite i wydrukowaæ najwiêksz¹ z nich.
-//Nie trzeba rozpatrywaæ osobno przypadku, gdy dwie lub trzy liczby mog¹ byæ sobie równe i najwiêksze zarazem - wtedy te¿ nale¿y tak¹ liczbê wydrukowaæ.
+//WczytaÄ‡ trzy liczby caÅ‚kowite i wydrukowaÄ‡ najwiÄ™kszÅ¡ z nich.
+//Nie trzeba rozpatrywaÄ‡ osobno przypadku, gdy dwie lub trzy liczby mogÅ¡ byÄ‡ sobie rÃ³wne i najwiÄ™ksze zarazem - wtedy teÅ¼ naleÅ¼y takÅ¡ liczbÄ™ wydrukowaÄ‡.
 
 #include <iostream>
 
@@ -9,7 +9,7 @@ int main(int argc, char *argv[])
 {
     int x,y,z,najwieksza;
 
-    cout << "Proszê podaæ trzy liczby ca³kowite" << endl;
+    cout << "ProszÄ™ podaÄ‡ trzy liczby caÅ‚kowite" << endl;
     cin >> x >> y >> z;
 
     najwieksza=x;
