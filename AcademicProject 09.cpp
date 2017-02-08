@@ -1,7 +1,7 @@
-//Wczytaæ ci¹g liczb niezerowych zakoñczony zerem. Wydrukowaæ:
-//-œredni¹ arytmetyczn¹ pierwszej i ostatniej liczby tego ci¹gu;
-//-œredni¹ arytmetyczn¹ dodatnich liczb tego ci¹gu;
-//albo odpowiedni komentarz, gdy którejœ ze œrednich nie da siê policzyæ.
+//WczytaÄ‡ ciÄ…g liczb niezerowych zakoÅ„czony zerem. WydrukowaÄ‡:
+//-Å›redniÄ… arytmetycznÄ… pierwszej i ostatniej liczby tego ciÄ…gu;
+//-Å›redniÄ… arytmetycznÄ… dodatnich liczb tego ciÄ…gu;
+//albo odpowiedni komentarz, gdy ktÃ³rejÅ› ze Å›rednich nie da siÄ™ policzyÄ‡.
 
 #include <iostream>
 
