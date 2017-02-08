@@ -1,4 +1,4 @@
-//Wczytywaæ ci¹g liczb a¿ do napotkania zera. Wydrukowaæ iloœæ liczb ujemnych i iloœæ liczb dodatnich w tym ci¹gu.
+//WczytywaÄ‡ ciÄ…g liczb aÅ¼ do napotkania zera. WydrukowaÄ‡ iloÅ›Ä‡ liczb ujemnych i iloÅ›Ä‡ liczb dodatnich w tym ciÄ…gu.
 
 #include <iostream>
 
