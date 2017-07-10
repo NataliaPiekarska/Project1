@@ -1,5 +1,5 @@
 //Wczytac dwie liczby calkowite i wydrukowac wieksza z nich.
-//Uwzglêdniæ przypadek, gdy dwie liczby s¹ sobie równe i odpowiednio sygnalizowaæ to komentarzem.
+//Uwzglednic przypadek, gdy dwie liczby sa sobie równe i odpowiednio sygnalizowaæ to komentarzem.
 
 #include <iostream>
 
