@@ -1,5 +1,6 @@
-//Wczytać trzy liczby całkowite i wydrukować największš z nich.
-//Nie trzeba rozpatrywać osobno przypadku, gdy dwie lub trzy liczby mogš być sobie równe i największe zarazem - wtedy też należy takš liczbę wydrukować.
+//Wczytać trzy liczby całkowite i wydrukować największa z nich.
+//Nie trzeba rozpatrywać osobno przypadku, gdy dwie lub trzy liczby moga być sobie równe i największe zarazem,
+//wtedy też należy taka liczbę wydrukować.
 
 #include <iostream>
 
