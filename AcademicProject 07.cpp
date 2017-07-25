@@ -1,5 +1,5 @@
-//Wczytać cišg liczb dodatnich zakończony liczbš niedodatniš.
-//Wydrukować największš liczbę tego cišgu.
+//Wczytać ciag liczb dodatnich zakonczony liczba niedodatnia.
+//Wydrukować najwieksza liczbę tego ciagu.
 
 #include <iostream>
 
