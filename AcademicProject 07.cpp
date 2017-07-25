@@ -15,7 +15,6 @@ int main(int argc, char* argv[])
 
     while (x>0)
     {
-      cout << "Prosze podac liczbe" << endl;
       cin >> x;
       if (x>najLiczba)
         najLiczba=x;
