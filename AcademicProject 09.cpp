@@ -11,7 +11,7 @@ int main()
 {
     double x, pierwsza, sumaPlus, liczbaPlus;
 
-    cout << "Prosze podac liczbe" << endl;
+    cout << "Prosze podac ciag liczb zakonczony zerem" << endl;
     cin >> x;
 
     pierwsza=x;
@@ -25,7 +25,6 @@ int main()
           sumaPlus+=x;
           liczbaPlus++;
       }
-      cout << "Prosze podac liczbe" << endl;
       cin >> x;
     }
 
