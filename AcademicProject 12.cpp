@@ -1,9 +1,9 @@
-//Wczytywaæ ci¹g liczb ca³kowitych dodatnich a¿ do napotkania liczby niedodatniej. Dla ka¿dej z nich drukowaæ:
+//Wczytywac ciag liczb calkowitych dodatnich az do napotkania liczby niedodatniej. Dla kazdej z nich drukowac:
 //1 - dla liczb jednocyfrowych
 //2 - dla liczb dwucyfrowych
 //3 -dla liczb trzycyfrowych
 //4 - dla liczb czterocyfrowych
-//555 - dla pozosta³ych.
+//555 - dla pozostalych.
 
 #include <iostream>
 
