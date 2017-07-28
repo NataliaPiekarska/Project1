@@ -6,25 +6,22 @@ using namespace std;
 
 int main()
 {
-    char znak1, znak2;
-    int licznikZnakow;
+    int licznikK=0;
+    int licznikZ=0;
+    char z;
 
-    licznikZnakow=0;
-
-    znak1=''
-
+    cout << "Prosze podac znak, program zatrzyma sie po podaniu dwoch kropek" << endl
+        
     do
     {
-        znak2=znak1
+    cin >> z;
+    licznikZ++;
+    if (z=='.')
+        licznikK++;
+    } while (licznikK!=2);
 
-        cout << "Prosze podac znak" << endl;
-        cin >> znak1;
-
-        licznikZnakow++;
-
-    } while (znak1!='.'||znak2!='.');
-
-    cout << "Ilosc wszystkich znakow to " << licznikZnakow << endl;
-
+    cout << "Liczna wszystkich znakow to " << licznikZ << endl;
+    
     return 0;
 }
+
