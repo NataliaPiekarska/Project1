@@ -1,5 +1,5 @@
-//Wczytywaæ liczby a¿ do powtórzenia siê pierwszej z nich.
-//Wyœwietliæ na ekranie informacjê, ile razy wyst¹pi³a sytuacja, ¿e wpisana liczba by³a wiêksza od swojego poprzednika.
+//Wczytywac liczby az do powtorzenia sie pierwszej z nich.
+//Wyswietlic na ekranie informacje, ile razy wystapila sytuacja, ze wpisana liczba byla wieksza od swojego poprzednika.
 
 #include <iostream>
 
@@ -19,8 +19,6 @@ int main()
     do
     {
     poprzednia = aktualna;
-
-    cout << "Prosze podac liczbe" << endl;
     cin >> aktualna;
 
     if (aktualna>poprzednia)
