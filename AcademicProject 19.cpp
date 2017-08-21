@@ -8,42 +8,48 @@
 
 using namespace std;
 
-const int n = 8;
-
 int main()
 {
 
-    int A[n];
-    int i1, i2, ip, i, liczba;
+     int n;
+     int liczba;
+     int poczatek=0, srodek=0;
 
-    i1=ip=0;
-    i2=n-1;
+     cout << "Ile elementow ma zawierac tablica?" << endl;
+     cin >> n;
 
-    for (i=0;i<n;i++)
-    {
-      cin >> liczba;
+     int koniec =n-1;
+     int A [n];
 
-      if (abs(liczba)<=9)
-      {
-      A[ip] = A[i1];
-      ip++;
-      A[i1] = liczba;
-      i1++;
-      }
-      else if (abs(liczba)<=99)
-      {
-      A[i2]=liczba;
-      i2--;
-      }
-      else
-      {
-      A[ip]=liczba;
-      ip++;
-      }
-    }
+     cout << "Prosze podac te elementy" << endl;
 
-    for (i=0;i<n;i++)
-       cout << A[i] << " ";
+     for (int i=0;i<n;i++)
+     {
+     cin >> liczba;
+
+     if (abs(liczba)<=9)
+     {
+     A[srodek]=A[poczatek];
+     srodek++;
+     A[poczatek]=liczba;
+     poczatek++;
+     }
+     else if (abs(liczba)<=99)
+     {
+      A[koniec]=liczba;
+     koniec--;
+     }
+     else
+     {
+     A[srodek]=liczba;
+     srodek++;
+     }
+
+     }
+
+     for (int i=0;i<n;i++)
+     cout << A[i] << " ";
+    
 
     return 0;
 }
