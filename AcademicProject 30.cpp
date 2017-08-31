@@ -1,6 +1,6 @@
-/*Do wektora o n elementach (n - sta³a) wczytaæ dane o samochodach postaci (rocznik, cena, marka) jako pola rekordów.
-Wydrukowaæ cenê najstarszego samochodu (lub pierwszego napotkanego spoœród kilku najstarszych)
-i markê najdro¿szego samochodu (lub pierwszego napotkanego spoœród kilku najdro¿szych).*/
+/*Do wektora o n elementach (n - stala) wczytaÃ¦ dane o samochodach postaci (rocznik, cena, marka) jako pola rekordow.
+Wydrukowac cene najstarszego samochodu (lub pierwszego napotkanego sposrod kilku najstarszych)
+i marke najdrozszego samochodu (lub pierwszego napotkanego spoÅ“rÃ³d kilku najdroÂ¿szych).*/
 
 #include <iomanip>
 #include <iostream>
